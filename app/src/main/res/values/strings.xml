@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello , Welcome To Music world !</string>
+    <string name="app_name">Desi Choice </string>
+
+
+    <string name="mobile_ad_id">ca-app-pub-3459004490451586~2841699343</string>
+
+    <string name="banner_ad_unit_id1">ca-app-pub-3459004490451586/2698229112</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-3459004490451586/2315085734</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-3459004490451586/1931942359</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-3459004490451586/6042577755</string>
+    <string name="banner_ad_unit_id5">ca-app-pub-3459004490451586/1165655591</string>
+    <string name="banner_ad_unit_id6">ca-app-pub-3459004490451586/2266984277</string>
+
+    <!--Replace with your own ad unit id. -->
+
+    <string name="ad_unit_id1">ca-app-pub-3459004490451586/7284217675</string>
+    <string name="ad_unit_id2">ca-app-pub-3459004490451586/5288609728</string>
+    <string name="ad_unit_id3">ca-app-pub-3459004490451586/7831012587</string>
+    <string name="ad_unit_id4">ca-app-pub-3459004490451586/8760950872</string>
+    <string name="ad_unit_id5">ca-app-pub-3459004490451586/6956914619</string>
+    <string name="ad_unit_id6">ca-app-pub-3459004490451586/1620827452</string>
+    <string name="ad_unit_id7">ca-app-pub-3459004490451586/9430679496</string>
+    <string name="ad_unit_id8">ca-app-pub-3459004490451586/3743717476</string>
+    <string name="title_activity_front"> Ever Green Desi Choice</string>
+
+</resources>
